@@ -1,0 +1,20 @@
+{
+  "name": "python",
+  "displayName": "python",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "py",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
