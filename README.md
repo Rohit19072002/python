@@ -1,65 +1,58 @@
-# python README
-
-This is the README for your extension "python". After writing up a brief description, we recommend including the following sections.
+# Python Extension README
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Describe the specific features and functionalities of your Python extension here. You can include screenshots or animations to showcase your extension in action.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+List any requirements or dependencies for using your Python extension and provide instructions on how to install and configure them, if necessary.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+If your Python extension adds any settings to Visual Studio Code, include them in this section. Describe each setting and how it can be configured.
 
 For example:
 
 This extension contributes the following settings:
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+* `pythonExtension.enable`: Enable/disable the Python extension.
+* `pythonExtension.thing`: Set to `blah` to perform a specific action.
+
+## Usage
+
+Explain how users can use your Python extension effectively. Provide code examples, instructions, or any relevant information to help users understand and utilize your extension.
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Document any known issues or limitations of your Python extension. This can help prevent users from reporting duplicate issues.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Include release notes to keep users informed about updates and improvements to your Python extension.
 
 ### 1.0.0
 
-Initial release of ...
+- Initial release of the Python extension.
+- Added basic features X and Y.
 
 ### 1.0.1
 
-Fixed issue #.
+- Fixed issue with feature X not working in specific scenarios.
 
 ### 1.1.0
 
-Added features X, Y, and Z.
+- Added advanced feature Z.
+- Improved performance and stability.
 
----
+## Contributing
 
-## Working with Markdown
+Provide guidelines and instructions for developers who want to contribute to your Python extension. Include information on how to submit bug reports, feature requests, and pull requests.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## License
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Specify the license under which your Python extension is distributed.
 
-## For more information
+## Contact
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Provide contact information for users to reach out to you with questions, feedback, or support requests.
